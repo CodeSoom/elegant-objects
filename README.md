@@ -114,7 +114,7 @@ Cash dollar = new Cash(exchange, 500);
 
 ## 4장 은퇴
 
-* 4.1 
+* 4.1 절대 NULL을 반환하지 마세요
   * NULL을 반환하지 말아야 하는 이유는?
 * 4.2 체크 예외(checked exception)만 던지세요
   * 예외처리는 어떻게 해야 하는가?
